@@ -10,6 +10,14 @@ Tested to work in vscode and vscodium locally and in following browser based env
 
 Also tested to work with plain Jupyter Notebook in [Red Hat OpenShift Data Science](https://developers.redhat.com/products/red-hat-openshift-data-science/overview) sandbox.
 
+## How to use
+
+When opening the notebook in a browser based environment, you should be able to run the cells directly.
+
+
+
+If IDE asks if you want to install the recommended  extensions, say yes. Makes it easier to work with the notebook and generated files.
+
 ## Work in progress
 
 I recently realized Jupyter Notebooks works well as a tutorial format with `jbang`. Made this very quickly to test it out.
