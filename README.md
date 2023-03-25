@@ -12,9 +12,7 @@ Also tested to work with plain Jupyter Notebook in [Red Hat OpenShift Data Scien
 
 ## How to use
 
-When opening the notebook in a browser based environment, you should be able to run the cells directly.
-
-
+Open the [jbang tutorial notebook](jbang_tutorial.ipynb), and you should be able to read the instructions and run the code cells directly.
 
 If IDE asks if you want to install the recommended  extensions, say yes. Makes it easier to work with the notebook and generated files.
 
