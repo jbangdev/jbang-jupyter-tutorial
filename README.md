@@ -1,6 +1,6 @@
 # jbang-jupyter-tutorial
 
-Jupyter notebook based tutorial for getting started with Java using jbang.
+[Jupyter](https://github.com/jupyter/jupyter) notebook based tutorial for getting started with Java using [jbang](https://github.com/jbangdev/jbang).
 
 Tested to work in vscode and vscodium locally and in following browser based environments directly:
 
